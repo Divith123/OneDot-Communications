@@ -4,7 +4,14 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
+/* Add styles for the logo */
+.logo {
+    max-width: 100px; /* Adjust the size as needed */
+    display: block;
+    margin: 20px auto; /* Center the logo horizontally and add some top margin */
+}
 
+/* Add more styles as needed */
 .container {
     max-width: 1200px;
     margin: 0 auto;
